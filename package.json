@@ -1,0 +1,20 @@
+{
+  "name": "aethertrigger-website",
+  "version": "1.6.2",
+  "private": true,
+  "description": "Approved cinematic design with the expanded About founder story",
+  "scripts": {
+    "dev": "next dev",
+    "build": "node scripts/validate-site.mjs && next build",
+    "start": "next start",
+    "validate": "node scripts/validate-site.mjs"
+  },
+  "dependencies": {
+    "next": "16.4.2",
+    "react": "19.2.8",
+    "react-dom": "19.2.8"
+  },
+  "engines": {
+    "node": ">=20.9.0"
+  }
+}

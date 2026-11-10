@@ -1,0 +1,64 @@
+{
+  "company": {
+    "name": "Quant Data Intelligence LLC",
+    "@id": "https://www.quantdataintel.com/#organization",
+    "url": "https://www.quantdataintel.com/",
+    "taxID": "61-2355086",
+    "telephone": "+1 (307) 900-1944",
+    "address": "30 N Gould St. Ste N, Sheridan, WY 82801 US",
+    "sameAs": [
+      "https://www.linkedin.com/company/quantdataintel/",
+      "https://www.facebook.com/QuantDataIntel/",
+      "https://www.instagram.com/quantdataintel/",
+      "https://x.com/theQDI",
+      "https://www.youtube.com/@quantdataintel"
+    ],
+    "hello": "hello@quantdataintel.com",
+    "help": "help@quantdataintel.com"
+  },
+  "VerticalFoundry": {
+    "@id": "https://getverticalfoundry.com/#brand",
+    "sameAs": [
+      "https://www.linkedin.com/company/theverticalfoundry/",
+      "https://www.facebook.com/VerticalFoundry/",
+      "https://www.instagram.com/verticalfoundry/",
+      "https://x.com/VerticalFoundry",
+      "https://www.tiktok.com/@verticalfoundry",
+      "https://www.youtube.com/@verticalfoundry"
+    ],
+    "communities": [
+      "https://www.facebook.com/groups/verticalfoundry",
+      "https://chat.whatsapp.com/JP6sTCf7AVnIPZQ3KorJ61"
+    ],
+    "etsy": "https://www.etsy.com/shop/VerticalFoundry",
+    "hello": "hello@getverticalfoundry.com",
+    "help": "help@getverticalfoundry.com"
+  },
+  "AetherTrigger": {
+    "@id": "https://aethertrigger.com/#brand",
+    "sameAs": [
+      "https://www.linkedin.com/company/aethertrigger/",
+      "https://www.facebook.com/theAetherTrigger/",
+      "https://www.instagram.com/getaethertrigger/",
+      "https://www.tiktok.com/@aethertrigger",
+      "https://www.youtube.com/@aethertrigger"
+    ],
+    "hello": "hello@aethertrigger.com",
+    "help": "help@aethertrigger.com"
+  },
+  "founder": {
+    "name": "Alexandru Stoica",
+    "@id": "https://getverticalfoundry.com/#founder",
+    "email": "alex@quantdataintel.com",
+    "sameAs": [
+      "https://www.linkedin.com/in/alexstoicax/",
+      "https://www.facebook.com/alexstoicax/",
+      "https://www.instagram.com/alexstoicax/",
+      "https://www.threads.com/@alexstoicax",
+      "https://x.com/alexstoicax",
+      "https://www.tiktok.com/@alexstoicax",
+      "https://www.youtube.com/@alexstoicax",
+      "https://wa.me/@alexstoicax"
+    ]
+  }
+}

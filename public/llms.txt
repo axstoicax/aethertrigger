@@ -1,0 +1,57 @@
+# AetherTrigger
+
+> AetherTrigger is a development-stage business intelligence brand of Quant Data Intelligence LLC, focused on opportunity identification for B2B providers serving Shopify and Shopify Plus merchants.
+
+Slogan: Turn aether signals into your next business opportunity. AetherTrigger is independent of Shopify. No live alerting, monitoring, subscription, API, or purchasable product is currently represented as available.
+
+## Website and editorial pages
+- [Home](https://aethertrigger.com/)
+- [Products concept](https://aethertrigger.com/products/)
+- [About AetherTrigger and founder](https://aethertrigger.com/about/)
+- [Contact and FAQ](https://aethertrigger.com/contact/)
+- [Media Kit and press assets](https://aethertrigger.com/media-kit/)
+- [Terms of Service](https://aethertrigger.com/terms-of-service/)
+- [Privacy Policy](https://aethertrigger.com/privacy-policy/)
+- [Privacy preferences](https://aethertrigger.com/privacy/)
+
+## Machine-readable references
+- [Extended brand and corporate context](https://aethertrigger.com/llms-full.txt): More detailed public background and source links
+- [Identity registry (JSON)](https://aethertrigger.com/identity-registry.json): Official entity identifiers, relationships and social profiles
+- [XML sitemap](https://aethertrigger.com/sitemap.xml): Public page inventory
+- [Robots policy](https://aethertrigger.com/robots.txt): Public crawler access policy
+- [Agent guidance](https://aethertrigger.com/agents.md): Interpretation and scope notes
+
+## Related official identities
+- [Quant Data Intelligence LLC](https://www.quantdataintel.com/)
+- [VerticalFoundry](https://getverticalfoundry.com/)
+- [AetherTrigger](https://aethertrigger.com/)
+- [Founder Alexandru Stoica](https://www.linkedin.com/in/alexstoicax/)
+
+## Official social identity links
+- [Quant Data Intelligence LLC — LinkedIn](https://www.linkedin.com/company/quantdataintel/)
+- [Quant Data Intelligence LLC — Facebook](https://www.facebook.com/QuantDataIntel/)
+- [Quant Data Intelligence LLC — Instagram](https://www.instagram.com/quantdataintel/)
+- [Quant Data Intelligence LLC — X](https://x.com/theQDI)
+- [Quant Data Intelligence LLC — YouTube](https://www.youtube.com/@quantdataintel)
+- [VerticalFoundry — LinkedIn](https://www.linkedin.com/company/theverticalfoundry/)
+- [VerticalFoundry — Facebook](https://www.facebook.com/VerticalFoundry/)
+- [VerticalFoundry — Instagram](https://www.instagram.com/verticalfoundry/)
+- [VerticalFoundry — X](https://x.com/VerticalFoundry)
+- [VerticalFoundry — TikTok](https://www.tiktok.com/@verticalfoundry)
+- [VerticalFoundry — YouTube](https://www.youtube.com/@verticalfoundry)
+- [AetherTrigger — LinkedIn](https://www.linkedin.com/company/aethertrigger/)
+- [AetherTrigger — Facebook](https://www.facebook.com/theAetherTrigger/)
+- [AetherTrigger — Instagram](https://www.instagram.com/getaethertrigger/)
+- [AetherTrigger — TikTok](https://www.tiktok.com/@aethertrigger)
+- [AetherTrigger — YouTube](https://www.youtube.com/@aethertrigger)
+- [Alexandru Stoica — LinkedIn](https://www.linkedin.com/in/alexstoicax/)
+- [Alexandru Stoica — Facebook](https://www.facebook.com/alexstoicax/)
+- [Alexandru Stoica — Instagram](https://www.instagram.com/alexstoicax/)
+- [Alexandru Stoica — Threads](https://www.threads.com/@alexstoicax)
+- [Alexandru Stoica — X](https://x.com/alexstoicax)
+- [Alexandru Stoica — TikTok](https://www.tiktok.com/@alexstoicax)
+- [Alexandru Stoica — YouTube](https://www.youtube.com/@alexstoicax)
+- [Alexandru Stoica — WhatsApp](https://wa.me/@alexstoicax)
+
+## Optional
+- [Brand overview on parent site](https://www.quantdataintel.com/brands/)
